@@ -1,4 +1,4 @@
-# Semantic Cache with Redis and LangChain
+# Semantic Cache (Offline and Online Strategies)
 
 A project demonstrating semantic caching for LLM responses using Redis Vector DB, LangChain, and HuggingFace embeddings. The pipeline parses a PDF document, generates FAQ pairs using a Groq LLM, and stores them in a Redis semantic cache for fast, similarity-based retrieval.
 
