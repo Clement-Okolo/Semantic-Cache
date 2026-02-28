@@ -82,7 +82,7 @@ streamlit run app.py
 semantic-cache/
 ├── app.py                         # Streamlit web app
 ├── semantic-cache-project.ipynb   # Notebook walkthrough
-├── credentials.py                 # API keys and secrets (not committed)
+├── credentials.py                 # API keys and secrets
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 └── data/                          # Downloaded PDF files
