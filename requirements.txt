@@ -1,0 +1,27 @@
+redisvl>=0.4.1
+redis
+
+# LLM & LangChain
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# PDF Parsing
+llama-cloud>=1.0
+llama-index-core
+llama-index-readers-file
+unstructured[pdf]
+
+# Utilities
+nest_asyncio
+pydantic
+ipywidgets
+
+# App
+streamlit
